@@ -4,7 +4,7 @@
 ### 3. Prediction of song skips on Spotify using sequential user and acoustic data.
 ### 4. Stock market price prediction using numerical data and textual data.
 
-Across all four projects, I adhered to standard procedures, including exploratory data analysis (EDA), data cleaning, feature engineering, model building, prediction, and model evaluation. I utilized various models, such as logistic regression, random forest, decision trees, XGBoost, LightGBM, and LSTM. Additionally, I employed techniques like ridge and lasso for regression tasks. To address imbalanced data, I employed methods like SMOTE (Synthetic Minority Over-Sampling Technique) and BorderLineSMOTE to generate synthetic samples. I also utilized PCA (Principal Component Analysis) for dimensionality reduction.
+Across all four projects, I adhered to standard procedures, including __Exploratory Data Analysis (EDA)__, __Data Cleaning__, __Feature Engineering__, __Model Building__, __Prediction__, and __Model Evaluation__. I utilized various models, such as __Logistic Regression__, __Random Forest__, __Decision Trees__, __XGBoost__, __LightGBM__, and __LSTM__. Additionally, I employed techniques like __Ridge__ and __Lasso__ for regression tasks. To address imbalanced data, I employed methods like __SMOTE__ (Synthetic Minority Over-Sampling Technique) and __BorderLineSMOTE__ to generate synthetic samples. I also utilized __PCA__ (Principal Component Analysis) for dimensionality reduction.
 
 
 Turning to the results:
